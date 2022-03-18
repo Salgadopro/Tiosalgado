@@ -26,8 +26,8 @@ nav > button {
     border-radius: 30%;
 }
 button:hover:after {           
-   content:" Tio Salgado te deseja : BOA FESTAAA DJ !!! ";
-   color: white;
+   content :" Tio Salgado te deseja : BOA FESTAAA DJ !!! ";
+   
    font-size:15px;
 }
 
