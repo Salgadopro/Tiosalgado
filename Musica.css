@@ -18,8 +18,9 @@ header > h1 {
 }
 
 nav > button {
+    color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-shadow: 0,5px 0,5px 1px white;
+    text-shadow: 1px 1px 1px black;
     box-shadow: 1px 1px 1px white; 
     background-color: rgb(206, 13, 13); 
     border-radius: 30%;
