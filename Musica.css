@@ -18,7 +18,7 @@ header > h1 {
 }
 
 nav > button {
-    color: white;
+    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-shadow: 1px 1px 1px black;
     box-shadow: 1px 1px 1px white; 
@@ -27,6 +27,7 @@ nav > button {
 }
 button:hover:after {           
    content:" Tio Salgado te deseja : BOA FESTAAA DJ !!! ";
+   color: white;
    font-size:15px;
 }
 
