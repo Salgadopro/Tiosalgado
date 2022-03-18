@@ -24,6 +24,11 @@ nav > button {
     background-color: rgb(206, 13, 13); 
     border-radius: 30%;
 }
+button:hover:after {           
+   content:" Tio Salgado te deseja : BOA FESTAAA DJ !!! ";
+   font-size:20px;
+}
+
 main > h2 {
     background-image: linear-gradient(black,red,rgb(12, 11, 11));
     color: aliceblue;
