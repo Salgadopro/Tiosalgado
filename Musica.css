@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-image: linear-gradient(rgb(68, 56, 56),rgb(146, 146, 139),rgb(116, 8, 8));
+    
     text-align: center;
     text-shadow: 1px 1px 1px rgb(24, 22, 22);
 }
