@@ -3,11 +3,11 @@
 body {
     
     text-align: center;
-    text-shadow: 1px 1px 1px rgb(24, 22, 22);
+    text-shadow: 2px 2px 2px white;
 }
 header > h1 {
     text-align: center;
-    text-shadow: 1px 1px 1px rgb(230, 13, 13);
+    text-shadow: 2px 2px 2px white;
     
     background-image: linear-gradient(rgb(26, 24, 24),rgb(119, 12, 9),rgb(15, 14, 14));
     padding-top: 5px;
@@ -20,7 +20,7 @@ header > h1 {
 nav > button {
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 2px 2px 2px white;
     box-shadow: 1px 1px 1px white; 
     background-color: rgb(206, 13, 13); 
     border-radius: 30%;
@@ -32,10 +32,7 @@ main > h2 {
     
     
     border-radius: 30%;
-    box-shadow: 1px 1px 1px rgb(14, 13, 13);
+    box-shadow: 2px 2px 2px white;
 }
 
-footer {
-    
-    
-}
+
